@@ -1,3 +1,4 @@
+# vaishnavikhadangle
 # <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vaishnavi%20Khadangle&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Embedded%20Systems%20|%20Full%20Stack%20Developer%20|%20Machine%20Learning%20Enthusiast&descAlignY=58" width="100%"/>
@@ -180,27 +181,7 @@ public:
 
 ---
 
-# 🏆 GitHub Trophy
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -216,7 +197,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAISHNAVI02KHADANGALE&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
