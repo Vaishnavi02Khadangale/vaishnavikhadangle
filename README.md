@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=24\&duration=3000\&pause=1000\&color=8A2BE2\&center=true\&vCenter=true\&width=800\&lines=Electronics+%26+Telecommunication+Engineer;Embedded+Systems+Developer;STM32+%7C+ESP32+%7C+IoT+Developer;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies+🚀)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&label=Profile+Views\&style=for-the-badge\&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=VAISHNAVI02KHADANGALE\&label=Profile+Views\&style=for-the-badge\&color=blueviolet)
 
 </div>
 
@@ -187,7 +187,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VAISHNAVI02KHADANGALE&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -269,7 +269,7 @@ Coming Soon...
 
 > Enable the GitHub Action later to generate the snake animation.
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VAISHNAVI02KHADANGALE/VAISHNAVI02KHADANGALE/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -283,20 +283,16 @@ Coming Soon...
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/vaishnavi-khadangale-29952734b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Vaishnavi02Khadangale">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vaishnavikhadangle02@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
