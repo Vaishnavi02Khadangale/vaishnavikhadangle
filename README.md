@@ -10,7 +10,7 @@
 
 ---
 
-# 👋 Hello, I'm Vaishnavi Khadangle
+# 👋 Hello, I'm Vaishnavi Khadangale
 
 ### Embedded Systems Engineer | Full Stack Developer | IoT Innovator | Machine Learning Enthusiast
 
